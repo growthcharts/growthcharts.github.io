@@ -4,6 +4,7 @@ Tools, trick and techniques for child growth data.
 
 ## Resources
 
-### Software
+
+## Software
 
 1. R package [brokenstick](https://github.com/stefvanbuuren/brokenstick)
